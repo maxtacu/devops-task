@@ -1,4 +1,4 @@
-FROM python:3.9.16-slim-bullseye
+FROM python:3.12.1-slim-bullseye
 
 LABEL Maintainer="Maxim Tacu"
 
